@@ -60,13 +60,13 @@ footer a{
     padding-left: 2%;
     margin-left: 250px;
     position: center;
-    color: #99A5B1;
+    color: #4b4f58;
     padding-bottom: 100px;
 }
 .info{
     margin-left: 250px;
     position: center;
-    color: #99A5B1;
+    color: #4b4f58;
     font-family: monospace;
     text-align: left;
 }
@@ -78,5 +78,8 @@ footer a{
 }
 .info li{
     padding-left: 50px;    
+}
+body{
+    background-image: url("back2.jpg")
 }
 

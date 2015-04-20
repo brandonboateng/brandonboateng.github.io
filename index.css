@@ -42,18 +42,18 @@
     padding-left: 2%;
     margin-left: 250px;
     position: center;
-    color: #99A5B1;
+    color: #4b4f58;
     font-family: monospace;
 }
 .info h1{
     padding-bottom: 130px;
     text-decoration: none;
-    color: #c3c3c3;
+    color: #4b4f58;
     text-align: center;
     font-size: 40px;
 }
 .info a{
-    color: #99A5B1;
+    color: #708396;
     text-decoration: none;
 }
 
@@ -62,7 +62,7 @@
     padding-left: 2%;
     margin-left: 250px;
     position: center;
-    color: #99A5B1;
+    color: #4b4f58;
     font-family: monospace;
     text-align: left;
 }
@@ -105,4 +105,7 @@ footer{
 footer a{
     text-decoration: none;
     color:#5f5f81;
+}
+body{
+    background-image: url("back2.jpg")
 }

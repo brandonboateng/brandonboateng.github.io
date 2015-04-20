@@ -60,7 +60,7 @@ footer a{
     padding-left: 2%;
     margin-left: 250px;
     position: center;
-    color: #99A5B1;
+    color: #4b4f58;
 }
 .skills{
     margin-top: 8%;
@@ -68,9 +68,10 @@ footer a{
     width: 80%;
     font-family: monospace;
     text-align: left;
+    color:#4b4f58;
 }
 .languages{
-    color: white;
+    color: #4b4f58;
     height:50px;
 }
 .languages:hover ul{
@@ -78,10 +79,6 @@ footer a{
 }
 .languages:hover{
     height:180px;
-    background-color: #193147;
-}
-.languages:hover h2{
-    background-color: #001F3D;
 }
 .languages h3{
     font-size: 20px;
@@ -91,93 +88,11 @@ footer a{
     text-align: left;
     text-indent: 20px;
     font-size:30px;
-    background-color: black;
 }
 .languages ul{
     list-style-position: inside;
     visibility: hidden;
 }
-.hardware{
-    color: white;
-    height:50px;
-}
-.hardware:hover ul{
-    visibility: visible;
-}
-.hardware:hover h2{
-    background-color: #001F3D;
-}
-.hardware:hover{
-    height:140px;
-    background-color: #193147;
-}
-.hardware h3{
-    font-size: 20px;
-    text-align: left;
-}
-.hardware h2{
-    text-align: left;
-    text-indent: 20px;
-    font-size:30px;
-    background-color: black;
-}
-.hardware ul{
-    list-style-position: inside;
-    visibility: hidden;
-}
-.os{
-    color: white;
-    height:50px;
-}
-.os:hover ul{
-    visibility: visible;
-}
-.os:hover{
-    height:140px;
-    background-color: #193147;
-}
-.os:hover h2{
-    background-color: #001F3D;
-}
-.os h3{
-    font-size: 20px;
-    text-align: left;
-}
-.os h2{
-    text-align: left;
-    text-indent: 20px;
-    font-size:30px;
-    background-color: black;
-}
-.os ul{
-    list-style-position: inside;
-    visibility: hidden;
-}
-.dbs{
-    color: white;
-    height:50px;
-}
-.dbs:hover ul{
-    visibility: visible;
-}
-.dbs:hover{
-    height:140px;
-    background-color: #193147;
-}
-.dbs:hover h2{
-    background-color: #001F3D;
-}
-.dbs h3{
-    font-size: 20px;
-    text-align: left;
-}
-.dbs h2{
-    text-align: left;
-    text-indent: 20px;
-    font-size:30px;
-    background-color: black;
-}
-.dbs ul{
-    list-style-position: inside;
-    visibility: hidden;
+body{
+    background-image: url("back2.jpg")
 }
