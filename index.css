@@ -42,18 +42,18 @@
     padding-left: 2%;
     margin-left: 250px;
     position: center;
-    color: #4b4f58;
+    color: #161816;
     font-family: monospace;
 }
 .info h1{
     padding-bottom: 130px;
     text-decoration: none;
-    color: #4b4f58;
+    color: #161816;
     text-align: center;
     font-size: 40px;
 }
 .info a{
-    color: #708396;
+    color: #161816;
     text-decoration: none;
 }
 
@@ -62,7 +62,7 @@
     padding-left: 2%;
     margin-left: 250px;
     position: center;
-    color: #4b4f58;
+    color: #161816;
     font-family: monospace;
     text-align: left;
 }
@@ -80,7 +80,7 @@
     padding-left: 50px;    
 }
 .experience a{
-    color: #99A5B1;
+    color: #161816;
     text-decoration: none;
 }
 
@@ -97,14 +97,14 @@ h1{
 
 footer{
     display: inline;
-    color:#5f5f81;
+    color:#161816;
     float:right;
     font-size: 10px;
     font: monospace;
 }
 footer a{
     text-decoration: none;
-    color:#5f5f81;
+    color:#161816;
 }
 body{
     background-image: url("back3.jpg")
