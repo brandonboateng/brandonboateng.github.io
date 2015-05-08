@@ -91,11 +91,11 @@ footer a{
     text-align: left;
     color:#4b4f58;
 }
-.In-Progress{{
+.In-Progress{
     color: #4b4f58;
     height:50px;
 }
-.In-Progress{{:hover ul{
+.In-Progress:hover ul{
     visibility: visible;
 }
 .In-Progress:hover{
