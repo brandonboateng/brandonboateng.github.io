@@ -83,6 +83,37 @@ footer a{
     color: #4b4f58;
     padding-bottom: 50px;
 }
+.Projects{
+    margin-top: 8%;
+    margin-left: 15%;
+    width: 80%;
+    font-family: monospace;
+    text-align: left;
+    color:#4b4f58;
+}
+.In-Progress{{
+    color: #4b4f58;
+    height:50px;
+}
+.In-Progress{{:hover ul{
+    visibility: visible;
+}
+.In-Progress:hover{
+    height:180px;
+}
+.In-Progress h3{
+    font-size: 20px;
+    text-align: left;
+}
+.In-Progress h2{
+    text-align: left;
+    text-indent: 20px;
+    font-size:30px;
+}
+.In-Progress ul{
+    list-style-position: inside;
+    visibility: hidden;
+}
 p{
     padding-left: 50%;
     color:#4b4f58;
