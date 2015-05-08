@@ -41,22 +41,6 @@
     min-height: 700px;
     left: -1px
 }
-.contents{
-    padding-top: 3%;
-    padding-left: 2%;
-    margin-left: 250px;
-    position: absolute;
-    background-color: #001F3D;
-    font-family: monospace;
-    color: #99A5B1;
-}
-td{
-    word-wrap: break-word;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
 footer{
     display: inline;
     color:#5f5f81;
@@ -68,9 +52,6 @@ footer a{
     text-decoration: none;
     color:#5f5f81;
 }
-
-
-
 #title{
     text-decoration: none;
     text-align: center;
@@ -81,7 +62,6 @@ footer a{
     margin-left: 250px;
     position: center;
     color: #4b4f58;
-    padding-bottom: 50px;
 }
 .Projects{
     margin-top: 8%;
@@ -113,10 +93,6 @@ footer a{
 .In-Progress ul{
     list-style-position: inside;
     visibility: hidden;
-}
-p{
-    padding-left: 50%;
-    color:#4b4f58;
 }
 body{
     background-image: url("back3.jpg")
