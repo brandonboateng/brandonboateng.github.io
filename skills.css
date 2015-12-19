@@ -93,6 +93,29 @@ footer a{
     list-style-position: inside;
     visibility: hidden;
 }
+.Other{
+    color: #4b4f58;
+    height:50px;
+}
+.Other:hover ul{
+    visibility: visible;
+}
+.Other:hover{
+    height:180px;
+}
+.Other h3{
+    font-size: 20px;
+    text-align: left;
+}
+.Other h2{
+    text-align: left;
+    text-indent: 20px;
+    font-size:30px;
+}
+.Other ul{
+    list-style-position: inside;
+    visibility: hidden;
+}
 body{
     background-image: url("back3.jpg")
 }

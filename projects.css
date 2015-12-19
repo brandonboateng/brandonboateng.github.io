@@ -94,6 +94,29 @@ footer a{
     list-style-position: inside;
     visibility: hidden;
 }
+.Archived{
+    color: #4b4f58;
+    height:50px;
+}
+.Archived:hover ul{
+    visibility: visible;
+}
+.Archived:hover{
+    height:180px;
+}
+.Archived h3{
+    font-size: 20px;
+    text-align: left;
+}
+.Archived h2{
+    text-align: left;
+    text-indent: 20px;
+    font-size:30px;
+}
+.Archived ul{
+    list-style-position: inside;
+    visibility: hidden;
+}
 body{
     background-image: url("back3.jpg")
 }
